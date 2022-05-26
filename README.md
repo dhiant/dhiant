@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Dhimal</h1>
-<h3 align="center">I'm a javascript programmwers || frontend developer || a tech enthusiast!</h3>
+<h3 align="center">I'm a javascript programmers || frontend developer || a tech enthusiast!</h3>
 <img align= "right" alt="Coding" width="400" src="https://64.media.tumblr.com/3752015af88a244d35ac543804d3606c/tumblr_ong4opFOMH1si8vfyo1_500.gifv" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiant&label=Profile%20views&color=0e75b6&style=flat" alt="dhiant" /> </p>
