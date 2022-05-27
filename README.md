@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiant&label=Profile%20views&color=0e75b6&style=flat" alt="dhiant" /> </p> -->
 
-<img align= "right" alt="Coding" width="500" src="./images/Code Development _Flatline.png">
+<img align= "right" alt="Coding" width="400" src="./images/Code Development _Flatline.png">
 
 
 - 🔭 I’m currently working on **Online Booking System Web App**
