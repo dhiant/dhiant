@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 🌱 I’m currently a Computer Science undergraduate
+- 🌱 I’m a Computer Science undergraduate
 
 - 📫 How to reach me **sushant07.dhimal@gmail.com**
 
